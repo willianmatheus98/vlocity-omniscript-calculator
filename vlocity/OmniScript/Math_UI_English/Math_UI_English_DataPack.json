@@ -1,0 +1,26 @@
+{
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "Math_UI_English_Element_Calculator.json",
+        "Math_UI_English_Element_param1.json",
+        "Math_UI_English_Element_param2.json",
+        "Math_UI_English_Element_operation.json",
+        "Math_UI_English_Element_TextBlock1.json",
+        "Math_UI_English_Element_CalculationAction1.json",
+        "Math_UI_English_Element_DisplayResult.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__OmniProcessType__c": "OmniScript",
+    "%vlocity_namespace%__PropertySet__c": "Math_UI_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "UI",
+    "%vlocity_namespace%__Type__c": "Math",
+    "Name": "Calculator",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Math/UI/English"
+}

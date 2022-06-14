@@ -1,0 +1,7 @@
+Name: temp
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/Math_UI_English
+VlocityTypesToFetch:
+    - OmniScript
+SalesforceTypesToFetch:
